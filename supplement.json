@@ -1,0 +1,170 @@
+[
+  {
+    "id": 20461,
+    "medicine_name": "Karkuma Organic Superfood",
+    "category_name": "Capsule",
+    "slug": "karkuma-organic-supperfood-120-piece-capsule",
+    "generic_name": "Balances Immunity Naturally",
+    "strength": "450 mg",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.28_647854f9.jpg",
+    "unit_prices": [
+      {
+        "unit": "120's Bottle",
+        "unit_size": 1,
+        "price": 1000
+      }
+    ]
+  },
+  {
+    "id": 20462,
+    "medicine_name": "Karkuma Organic Imunne Plus",
+    "category_name": "Capsule",
+    "slug": "karkuma-organic-imunne-plus-120-s-bottle-capsule",
+    "generic_name": "Nourishes Immune System and Health",
+    "strength": "450 mg",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.29_75c1404f.jpg",
+    "unit_prices": [
+      {
+        "unit": "120's Bottle",
+        "unit_size": 1,
+        "price": 850
+      }
+    ]
+  },
+  {
+    "id": 20463,
+    "medicine_name": "Karkuma Joint Guard",
+    "category_name": "Capsule",
+    "slug": "karkuma-joint-guard-90-s-bottle-capsule",
+    "generic_name": "Natural Care for Bone Joint",
+    "strength": "975 mg",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.29_0449bffc.jpg",
+    "unit_prices": [
+      {
+        "unit": "90's Bottle",
+        "unit_size": 1,
+        "price": 2170
+      }
+    ]
+  },
+  {
+    "id": 20465,
+    "medicine_name": "Karkuma Organic Healthy Gut",
+    "category_name": "Suspension",
+    "slug": "karkuma-healthy-gut-400-ml-suspension",
+    "generic_name": "Balance Gut Ecology Naturally",
+    "strength": "400 ml",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.30_5fc8627f.jpg",
+    "unit_prices": [
+      {
+        "unit": "400 ml bottle",
+        "unit_size": 1,
+        "price": 800
+      }
+    ]
+  },
+  {
+    "id": 20466,
+    "medicine_name": "Karkuma Organic Turmeric Immune Booster",
+    "category_name": "Powder",
+    "slug": "karkuma-turmeric-immune-booster-80-gm-powder",
+    "generic_name": "Nourishes Immune System and Health",
+    "strength": "80 gm",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.28_75657353.jpg",
+    "unit_prices": [
+      {
+        "unit": "80 gm Bottle",
+        "unit_size": 1,
+        "price": 390
+      }
+    ]
+  },
+  {
+    "id": 20470,
+    "medicine_name": "Karkuma Organic Honey",
+    "category_name": "Food",
+    "slug": "karkuma-organic-honey-400-gm-food",
+    "generic_name": "Beneficial for Health and Wellness",
+    "strength": "400 gm",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.30_a59962a7.jpg",
+    "unit_prices": [
+      {
+        "unit": "400 gm glass jar",
+        "unit_size": 1,
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": 20471,
+    "medicine_name": "Karkuma Organic Honey",
+    "category_name": "Honey",
+    "slug": "karkuma-organic-honey-300-gm-food",
+    "generic_name": "Beneficial for Health and Wellness",
+    "strength": "300 gm",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.31_3b705a46.jpg",
+    "unit_prices": [
+      {
+        "unit": "300 gm glass jar",
+        "unit_size": 1,
+        "price": 570
+      }
+    ]
+  },
+  {
+    "id": 20472,
+    "medicine_name": "Karkuma Organic Apple Cider Vinegar",
+    "category_name": "Vinegar",
+    "slug": "karkuma-apple-cider-vinegar-480-gm-food",
+    "generic_name": "Beneficial to Good Health",
+    "strength": "480 gm",
+    "manufacturer_name": "Organic Nutrition Ltd.",
+    "discount_type": "Percentage",
+    "discount_value": 5,
+    "is_discountable": false,
+    "is_available": true,
+    "medicine_image": "/media/medicines/WhatsApp_Image_2024-05-02_at_18.29.30_f071166b.jpg",
+    "unit_prices": [
+      {
+        "unit": "480 gm glass bottle",
+        "unit_size": 1,
+        "price": 650
+      }
+    ]
+  }
+]
