@@ -49,7 +49,7 @@ app.use('/', (req, res) => {
             if (!error && response.statusCode === 200) {
                 results.push({ route_id: route.id, data: JSON.parse(body) });
             } else {
-                results.push({ route_id: route.id, error: 'Failed to fetch data' });
+                results.push({ route_id: route.id, error: error});
             }
 
             completedRequests++;
