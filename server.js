@@ -33,8 +33,7 @@ const routes = [
 
 // Proxy route to fetch data for all routes and send the results
 app.use('/', (req, res) => {
-    console.log('hello');
-    
+
     const { date_of_journey } = req.query; // Get the date from the query parameters
 
     if (!date_of_journey) {
@@ -48,6 +47,8 @@ app.use('/', (req, res) => {
         const url = `https://railspaapi.shohoz.com/v1.0/web/bookings/search-trips-v2?from_city=${encodeURIComponent(route.from)}&to_city=${encodeURIComponent(route.to)}&date_of_journey=${encodeURIComponent(date_of_journey)}&seat_class=AC_B`;
 
         request(url, (error, response, body) => {
+            console.log(response);
+            
             if (!error && response.statusCode === 200) {
                 results.push({ route_id: route.id, data: JSON.parse(body) });
             } else {
